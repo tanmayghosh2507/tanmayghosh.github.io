@@ -1,48 +1,62 @@
 const data ={
   "bio": [
-    "Hi, I'm Vinay Somawat — a Frontend Engineer with 5+ years of experience building scalable, high-performance web applications using Angular and React.",
-    "I specialize in component architecture, performance optimization, and modern frontend tooling like Storybook, Stencil, and Module Federation. I actively leverage GitHub Copilot and OpenAI APIs to accelerate UI development, automate workflows, and improve developer productivity.",
-    "I’m passionate about clean code, mentoring, and driving engineering excellence through collaboration, automation, and continuous improvement."
+    "Hi, I'm Tanmay Ghosh — a Software Engineer with over 8 years of industry experience building scalabale and robust applications with a strong focus on user experience, low-latency, high-consistency, accessiblity and security.",
   ],
   "skills": [
-    "JavaScript",
     "TypeScript",
-    "Angular",
-    "AngularJS",
+    "Java",
+    "Python",
+    "Kotlin",
+    "Kafka",
+    "Redis",
     "React",
-    "HTML5",
-    "CSS3",
-    "Tailwind CSS",
-    "Material UI",
-    "Bootstrap",
-    "RxJS",
-    "NGXS",
-    "NGRX",
-    "WebSockets",
-    "Module Federation",
-    "Signals API",
-    "Micro-frontend Architecture",
-    "StencilJS",
-    "Storybook",
-    "Webpack",
+    "Go",
+    "HTTP",
+    "gRPC",
+    "C#",
+    "Amazon Web Services (AWS)",
+    "Microsoft Azure",
+    "SQL",
+    "Amazon DynamoDB",
+    "Cassandra",
+    "Apache Spark",
+    "Apache Storm",
+    "Amazon S3",
     "Git",
-    "GitHub Copilot",
-    "OpenAI APIs",
-    "Chrome DevTools",
-    "Performance Optimization",
-    "Responsive Design",
-    "Web Accessibility",
+    "Agentic AI",
+    "LLM",
+    "GenAI",
+    "REST",
+    "Apache Thrift",
+    "Accessibility",
     "Unit Testing",
-    "ESLint",
-    "Prettier"
+    "Azure Blob Storage",
+    "Zookeeper",
+    "AWS Glue",
+    "Event-driven architecture",
+    "Microservice architectire",
+    ".NET",
+    "Node.js",
+    "Grafana",
+    "Beats",
+    "Amazon Cloudwatch",
+    "Amazon Cloudformation",
+    "Elasticsearch-Logstash-Kibana (ELK)",
+    "Natural Langauge Processing (NLP)",
+    "Machine Learning",
+    "Power BI",
+    "MCP",
+    "Algorithmic Trading",
+    "RAG"
   ],
   "experience": [
     {
-      "title": "SS&C Technologies",
-      "duration": "August 2025 - Present",
-      "subtitle": "Senior Software Engineer",
+      "title": "Amazon Web Services (AWS) - Clean Rooms",
+      "duration": "June 2025 - Present",
+      "subtitle": "Software Engineer",
       "details": [
-        "coming soon..."
+        "Orchestrated and completed region expansion for AWS CleanRooms into 10 new GeoRegions, with CDK optimization and GenAI leveraged automation to speed up future region expansion effort by 80%",
+        "Developed an Ops Tool to share Spark execution logs from Clean Rooms Compute cells to advertisement clients redacting PII"
       ],
       "tags": [],
       "icon": "money"
@@ -120,23 +134,18 @@ const data ={
   "contactLinks": [
     {
       "label": "Email",
-      "link": "mailto:vinaysomawat40@gmail.com",
+      "link": "mailto:tanmayghosh2507@gmail.com",
       "icon": "fa fa-envelope"
     },
     {
       "label": "LinkedIn",
-      "link": "https://www.linkedin.com/in/vinaysomawat/",
+      "link": "https://www.linkedin.com/in/tanmay-ghosh/",
       "icon": "fa-brands fa-linkedin"
     },
     {
       "label": "GitHub",
-      "link": "https://github.com/vinaysomawat",
+      "link": "https://github.com/tanmayghosh2507",
       "icon": "fa-brands fa-github"
-    },
-    {
-      "label": "Buy me a coffee",
-      "link": "https://www.buymeacoffee.com/r194dME8y",
-      "icon": "fa fa-coffee"
     }
   ],
   "footer": [
@@ -144,12 +153,8 @@ const data ={
       "label": "Links",
       "data": [
         {
-          "text": "Buy me a coffee",
-          "link": "https://www.buymeacoffee.com/r194dME8y"
-        },
-        {
           "text": "Github",
-          "link": "https://github.com/vinaysomawat/vinaysomawat.github.io"
+          "link": "https://github.com/tanmayghosh2507/tanmayghosh.github.io"
         }
       ]
     },
@@ -157,7 +162,7 @@ const data ={
       "label": "Pages",
       "data": [
         {
-          "text": "Trekking & Himalayan Pass Adventures",
+          "text": "Hobbies",
           "link": "./pages/adventure.html"
         },
         {
